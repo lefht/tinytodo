@@ -2,4 +2,4 @@
 a four line todos list in bash
 - - -
 
-[![asciicast](https://asciinema.org/a/AU99DaLbOGYmvm4t4ru9whC1f.svg)](https://asciinema.org/a/AU99DaLbOGYmvm4t4ru9whC1f)
+<script src="https://asciinema.org/a/AU99DaLbOGYmvm4t4ru9whC1f.js" id="asciicast-AU99DaLbOGYmvm4t4ru9whC1f" async="true"></script>
